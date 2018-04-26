@@ -13,9 +13,9 @@ An example real run time on an iPhone6 SE with no other apps running for a set o
 
 # Sample output (truncated for obvious reasons):
 
-`[]
-[0]
-[0, 1]
+`[]\
+[0]\
+[0, 1]\
 [0, 1, 2]
 [0, 1, 2, 3]
 [0, 1, 2, 3, 4]

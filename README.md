@@ -31,7 +31,7 @@ An example real run time on an iPhone6 SE with no other apps running for a set o
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]\
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]\
 ...\
-<output truncated massively>\
+...output truncated...\
 ...\
 [11, 13, 14, 15]\
 [11, 13, 15]\

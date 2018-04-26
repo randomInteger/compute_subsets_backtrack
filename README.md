@@ -13,7 +13,7 @@ An example real run time on an iPhone6 SE with no other apps running for a set o
 
 # Sample output (truncated for obvious reasons):
 
-`[]\
+[]\
 [0]\
 [0, 1]\
 [0, 1, 2]
@@ -57,4 +57,4 @@ Number of subsets computed for set:
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 is:65536
 Time spent in seconds:
-[3.2600250244140625]`
+[3.2600250244140625]
